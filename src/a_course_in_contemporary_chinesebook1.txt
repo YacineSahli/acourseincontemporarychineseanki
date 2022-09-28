@@ -1,0 +1,568 @@
+陳月美	Chén Yuèměi	a woman from Vietnam
+李明華	Lǐ Mínghuá	a man from Taiwan
+王開文	Wáng Kāiwén	a man from the US
+你	nǐ	(N) you
+來	lái	(V) to come
+是	shì	(Vst) to be
+小姐	xiǎojiě	(N) Miss, Ms
+嗎	ma	(Ptc) sentence final particle
+接	jiē	(V) to pick sb up
+我們	wǒmen	(N) we, us
+我	wǒ	(N) I, me
+這	zhè / zhèi	(Det) this
+先生	xiānshēng	(N) Mr
+好	hǎo	(Vs) fine, well
+姓	xìng	(Vst) to be surnamed
+叫	jiào	(Vst) to be called, i.e., to have the first name xx
+你們	nǐmen	(N) you (plural)
+臺灣/台灣	Táiwān	Taiwan
+歡迎	huānyíng	welcome
+請問	qǐngwèn	May I ask you... Excuse me,…
+是的	shìde	yes
+謝謝	xièxie	Thank you
+不客氣	búkèqì	You're welcome'
+你好	nǐ hǎo	How are you? Hello
+請	qǐng	(V) please
+喝	hē	(V) to drink
+茶	chá	(N) tea
+很	hěn	(Adv) very
+好喝	hǎohē	(Vs) (lit. good to drink) to taste good
+什麼	shénme	(N) what
+人	rén	(N) person, people
+喜歡	xǐhuān	(Vst) to like
+呢	ne	(Ptc) sentence final particle
+他	tā	(N) he, him
+不	bù	(Adv) not
+哪	nǎ / něi	(Det) which
+要	yào	(Vaux) to want to
+咖啡	kāfēi	(N) coffee
+烏龍茶	Wūlóng chá	Oolong tea
+日本	Rìběn	Japan
+美國	Měiguó	America
+對不起	duìbùqǐ	I'm sorry'
+哪國	nǎguó / něi guó	Which country?
+張怡君	Zhāng Yíjūn	a woman from Taiwan
+馬安同	Mǎ Āntóng	a man from the Republic of Honduras
+的	de	(Ptc) modification marker
+家人	jiārén	(N) family (members)
+家	jiā	(N) home, house
+漂亮	piàoliàng	(Vs) pretty
+房子	fángzi	(N) house
+坐	zuò	(Vi) to sit
+好	hǎo	(Ptc) OK
+有	yǒu	(Vst) to have
+多	duō	(Vs-pred) many
+照片	zhàopiàn	(N) photo
+都	dōu	(Adv) all, both
+照相	zhàoxiàng	(V-sep) to take a photo
+張	zhāng	(M) measure word for flat objects (e.g., paper, tickets)
+好看	hǎokàn	(Vs) good-looking
+誰	shéi	(N) who
+姐姐	jiějie	(N) older sister
+妹妹	mèimei	(N) younger sister
+爸爸	bàba	(N) dad
+媽媽	māma	(N) mom
+請進	qǐng jìn	Please come in!
+田中誠一	Tiánzhōng Chéngyī	a man from Japan
+伯母	bómǔ	(N) aunt; here a polite term for a friends' mother regardless of age'
+您	nín	(N) you (honorific)
+名字	míngzi	(N) name
+書	shū	(N) book
+哥哥	gēge	(N) older brother
+老師	lǎoshī	(N) teacher
+看書	kànshū	(V-sep) to read
+幾	jǐ	(N) how many
+個	ge	(M) general measure word
+沒	méi	(Adv) not
+兄弟	xiōngdì	(N) brothers
+姐妹	jiěmèi	(N) sisters
+五	wǔ	(N) five
+兩	liǎng	(N) two
+週末	zhōumò	(N) weekend
+聽	tīng	(V) to listen
+音樂	yīnyuè	(N) music
+運動	yùndòng	(Vi) to exercise
+打	dǎ	(V) to play (ball games)
+網球	wǎngqiú	(N) tennis
+棒球	bàngqiú	(N) baseball
+和	hàn	(Conj) and, as well as
+游泳	yóuyǒng	(V-sep) to swim
+常	cháng	(Adv) often
+籃球	lánqiú	(N) basketball
+也	yě	(Adv) also
+踢	tī	(V) to kick
+足球	zúqiú	(N) soccer
+覺得	juéde	(Vst) to feel, to think
+好玩	hǎowán	(Vs) Interesting, fun
+明天	míngtiān	(N) tomorrow
+早上	zǎoshàng	(N) morning
+去	qù	(V) to go
+怎麼樣	zěnmeyàng	(Vs) How about it? How does that sound? What do you think?
+啊	a	(Ptc) sentence-final particle
+做什麼	zuò shénme	do what
+好啊	hǎo a	OK
+白如玉	Bái Rúyù	a woman from the US
+今天	jīntiān	(N) today
+晚上	wǎnshàng	(N) evening, night
+看	kàn	(V) to see, to watch
+電影	diànyǐng	(N) movie
+妳	nǐ	(N) you (female)
+想	xiǎng	(Vaux) to want, to think
+還是	háishì	(Conj) or (used in a question)
+吧	ba	(Ptc) sentence-final particle for suggestion
+可以	kěyǐ	(Vaux) could (possibility)
+學	xué	(V) to learn, to study
+中文	Zhōngwén	(N) Chinese language
+一起	yìqǐ	(Adv) together
+吃	chī	(V) to eat
+晚飯	wǎnfàn	(N) dinner
+菜	cài	(N) cuisine
+越南	Yuènán	Vietnam
+好不好	hǎo bù hǎo	How about...? How does that sound?
+一共	yígòng	(Adv) altogether
+多少	duōshǎo	(N) how much, how many
+錢	qián	(N) money
+老闆	lǎobǎn	(N) store-owner, boss
+買	mǎi	(V) to buy
+杯	bēi	(M) cup
+熱	rè	(Vs) hot
+包子	bāozi	(N) steamed buns with meat stuffing filling
+要	yào	(V) to want, to need
+大	dà	(Vs) large
+中	zhōng	(Vs-attr) medium
+小	xiǎo	(Vs) small
+幫	bāng	(Prep) for
+微波	wéibō	(V) to microwave
+百	bǎi	(N) hundred
+塊	kuài	(M) measure word for Chinese money
+好的	hǎode	OK
+外帶	wàidài	take out, to go
+內用	nèiyòng	for here
+支	zhī	(M) measure word for cell phones
+新	xīn	(Vs) new
+手機	shǒujī	(N) cell phone
+太	tài	(Adv) too
+舊	jiù	(Vs) old
+了	le	(Ptc) sentence-final particle indicating the speaker's sense of certainty'
+種	zhǒng	(M) kind, type
+能	néng	(Vaux) can, be able to
+上網	shàngwǎng	(V-sep) to access the internet, to use the internet
+那	nà / nèi	(Det) that
+貴	guì	(Vs) expensive
+賣	mài	(V) to sell
+便宜	piányí	(Vs) cheap, inexpensive
+要	yào	(Vst) to take, to require
+萬	wàn	(N) ten thousand
+千	qiān	thousand
+為什麼	wèishénme	why
+牛肉	niúròu	(N) beef
+麵	miàn	(N) noodles
+真	zhēn	(Adv) really
+好吃	hǎochī	(Vs) delicious
+說	shuō	(V) say
+少	shǎo	(Vs-pred) few in number
+有名	yǒumíng	(Vs) well known, famous
+小吃	xiǎochī	(N) light repast, snack
+最	zuì	(Adv) most
+湯	tāng	(N) soup, broth
+這麼	zhème	(Adv) so
+知道	zhīdào	(Vst) to know
+家	jiā	(M) measure word for restaurants, shops, etc
+店	diàn	(N) shop, store
+一定	yídìng	(Adv) really must, definitely
+點	diǎn	(V) to order (meals)
+碗	wǎn	(M) a bowl of
+是啊	shì a	That's right'
+小籠包	xiǎolóngbāo	xiaolongbao, e.g., small meat and cabbage-filled steamed buns
+臭豆腐	chòu dòufǔ	stinky tofu (fermented tofu)
+太好了	tài hǎo le	Excellent. Great
+昨天	zuótiān	(N) yesterday
+餐廳	cāntīng	(N) restaurant
+可是	kěshì	(Conj) but, however
+辣	là	(Vs) hot (spicy)
+怕	pà	(Vst) (here) to not like, to fear
+所以	suǒyǐ	(Conj) therefore, so
+自己	zìjǐ	(N) self
+做飯	zuòfàn	(V-sep) to cook
+得	de	(Ptc) complement marker
+會	huì	(Vaux) to be able to, can
+甜點	tiándiǎn	(N) dessert
+不錯	búcuò	(Vs) not bad
+可以	kěyǐ	(Vaux) could (possibility)
+教	jiāo	(V) to teach
+到	dào	(Prep) to
+有一點	yǒu yì diǎn	a little
+不好	bù hǎo	not well
+他們	tāmen	(N) they (used for people only)
+學校	xuéxiào	(N) school
+在	zài	(Vst) to be located at
+山上	shānshàng	(N) on a mountain, in the mountains
+哪裡	nǎlǐ	(N) where
+遠	yuǎn	(Vs) far
+那裡	nàlǐ	(N) that place, there
+風景	fēngjǐng	(N) scenery, landscape
+美	měi	(Vs) beautiful
+前面	qiánmiàn	(N) front
+海	hǎi	(N) ocean
+後面	hòumiàn	(N) back
+山	shān	(N) mountain
+真的	zhēnde	(Adv) really, truly
+地方	dìfāng	(N) place
+現在	xiànzài	(N) now
+附近	fùjìn	(N) vicinity, near
+樓下	lóuxià	(N) downstairs
+找	zhǎo	(V) to meet, to see
+朋友	péngyǒu	(N) friend
+上課	shàngkè	(V-sep) to go to class
+花蓮	Huālián	name of a city on the eastern coast of Taiwan
+聽說	tīngshuō	hear that
+近	jìn	(Vs) near
+方便	fāngbiàn	(Vs) convenient
+這裡	zhèlǐ	(N) here, this place
+學生	xuéshēng	(N) student
+在	zài	(Prep) at
+東西	dōngxi	(N) things, stuff
+外面	wàimiàn	(N) outside
+裡面	lǐmiàn	(N) inside
+商店	shāngdiàn	(N) store, shop
+吃飯	chīfàn	(V-sep) to have a meal
+宿舍	sùshè	(N) dormitory
+樓	lóu	(N) a storey, a floor
+棟	dòng	(M) measure word for buildings
+大樓	dàlóu	(N) a multi-storey building
+圖書館	túshūguǎn	(N) library
+旁邊	pángbiān	(N) (by the) side, next to
+教室	jiàoshì	(N) classroom
+游泳池	yóuyǒngchí	(N) swimming pool
+點	diǎn	(M) o'clock'
+KTV		Karaoke
+唱歌	chànggē	(V-sep) to sing
+分	fēn	(M) minute
+見面	jiànmiàn	(V-sep) meet
+從	cóng	(Prep) from
+中午	zhōngwǔ	(N) noon
+得	děi	(Vaux) to have to, must
+銀行	yínháng	(N) bank
+時候	shíhòu	(N) when
+後天	hòutiān	(N) the day after tomorrow
+大安	Dà'ān'	Da-an (name of a KTV named after a district in Taipei, where Shida is also located.)
+下次	xiàcì	next time
+沒問題	méi wèntí	No problem
+對了	duìle	by the way
+有空	yǒu kòng	to have free time
+再見	zàijiàn	goodbye
+在	zài	(Vs) progressive aspect verb; in the process of doing something
+午餐	wǔcān	(N) lunch
+剛	gāng	(Adv) just now
+下課	xiàkè	(V-sep) to finish class
+下午	xiàwǔ	(N) afternoon
+半	bàn	(N) half
+比賽	bǐsài	(N) game, competition
+結束	jiéshù	(Vp) to finish
+最近	zuìjìn	(N) recently, lately
+忙	máng	(Vs) busy
+每	měi	(Det) every, each
+天	tiān	(M) Measure word for day
+書法	shūfǎ	(N) calligraphy
+課	kè	(N) class
+開始	kāishǐ	(Vp) to begin, to start
+字	zì	(N) character
+寫	xiě	(V) to write
+可以	kěyǐ	(Vaux) may (permission)
+問	wèn	(V) to ask
+等一下	děng yíxià	later
+有事	yǒu shì	to be busy; to be engaged
+有意思	yǒu yìsi	to be interesting, to be fun
+坐	zuò	(V) to take, to travel by
+火車	huǒchē	(N) train
+跟	gēn	(Prep) with
+玩	wán	(V) to have fun
+怎麼	zěnme	(Adv) how
+慢	màn	(Vs) slow
+鐘頭	zhōngtóu	(N) hour
+比較	bǐjiào	(Adv) (comparatively) more
+快	kuài	(Vs) fast
+車票	chē piào	(N) (train, bus) ticket
+非常	fēicháng	(Adv) very
+但是	dànshì	(Conj) but, however
+又	yòu	(Adv) both… and...
+舒服	shūfú	(Vs) comfortable
+站	zhàn	(N) station
+或是	huòshì	(Conj) or
+臺南	Táinán	a city in southwestern Taiwan
+高鐵	gāotiě	High Speed Rail (HSR)
+網路上	wǎnglù shàng	on the Internet
+便利商店	biànlì shāngdiàn	convenience store
+同學	tóngxué	(N) classmate
+參觀	cānguān	(V) to visit (an institution)
+古代	gǔdài	(N) ancient times
+騎	qí	(V) to ride
+機車	jīchē	(N) motorcycle, scooter
+載	zài	(V) to give someone a ride (on / in a vehicle, e.g. motorcycle, bicycle or car)
+捷運	jiéyùn	(N) Mass Rapid Transit (MRT)
+比	bǐ	(Prep) (more...) than
+故宮博物院 (故宮)	Gùgōng Bówùyuàn	National Palace Museum
+中國	Zhōngguó	China
+公共汽車	gōnggòng qìchē	bus
+不行	bù xíng	will not do
+計程車	jìchéngchē	taxi
+差不多	chābùduō	about the same
+星期 + number	xīngqí	week (day of the week)
+回國	huíguó	(V-sep) to return to one's country'
+打算	dǎsuàn	(Vaux) to plan to
+電視	diànshì	(N) TV
+影片	yǐngpiàn	(N) film
+旅行	lǚxíng	(Vi) to travel
+功課	gōngkè	(N) homework
+出去	chūqù	(Vi) to go out
+大概	dàgài	(Adv) approximately, about, probably
+放假	fàngjià	to have a holiday
+下個星期	xiàge xīngqí	next week
+有時候	yǒushíhòu	sometimes
+多久	duō jiǔ	how long
+臺東	Táidōng	name of one of the major cities on the southeastern coast of Taiwan
+女 + noun	nǚ	girl-, female-
+number + 月	yuè	month of a year
+number + 號	hào	date, day of a month
+帶	dài	(V) to take
+她	tā	(N) she, her
+還	hái	(Adv) still, additionally
+建議	jiànyì	(N) suggestion
+夜市	yèshì	(N) night market
+應該	yīnggāi	(Vaux) should
+逛	guàng	(V) to wander around, to look around
+特別	tèbié	(Vs) special
+茶館	cháguǎn	(N) tea house
+決定	juédìng	(Vp) to decide
+要是	yàoshì	(Conj) if
+就	jiù	(Adv) then
+貓空	Māokōng	name of a must-see place in Taipei to visit for fine tea and scenery
+水果	shuǐguǒ	(N) fruit
+黃色	huángsè	(N) yellow
+芒果	mángguǒ	(N) mango
+給	gěi	(V) to give
+塊	kuài	(M) measure word for pieces of food (e.g., meat, cake)
+香	xiāng	(Vs) fragrant
+甜	tián	(Vs) sweet (taste)
+紅色	hóngsè	(N) red
+西瓜	xīguā	(N) watermelon
+吧	ba	(Ptc) sentence-final particle for guessing
+對	duì	(Vs) correct, right
+以前	yǐqián	(N) before
+機會	jīhuì	(N) opportunity
+請	qǐng	(V) to treat sb to sth
+吃吃看	chīchīkàn	to have a taste, try it, taste it
+拍	pāi	(V) to take (pictures)
+笑	xiào	(V) to laugh, to smile
+開心	kāixīn	(Vs) happy
+穿	chuān	(V) to wear, to put on
+衣服	yīfú	(N) clothes
+旅館	lǚguǎn	(N) hotel
+太太	tàitai	(N) wife
+矮	ǎi	(Vs) short (height)
+高	gāo	(Vs) tall
+弟弟	dìdi	(N) younger brother
+乾淨	gānjìng	(Vs) clean
+窗戶	chuānghù	(N) window
+往	wǎng	(Prep) toward, to
+藍色	lánsè	(N) blue
+因為	yīnwèi	(Conj) because
+住	zhù	(V) to stay
+上個月	shàng ge yuè	last month
+這些	zhèxiē	these
+租	zū	(V) to rent
+房東	fángdōng	(N) landlord
+客廳	kètīng	(N) living room
+廚房	chúfáng	(N) kitchen
+左邊	zuǒbiān	(N) left (side)
+右邊	yòubiān	(N) right (side)
+浴室	yùshì	(N) bathroom
+超市	chāoshì	(N) supermarket
+走路	zǒulù	(V-sep) to walk
+分鐘	fēnzhōng	(M) measure word for minutes
+就	jiù	(Adv) only, merely
+到	dào	(Vp) arrive
+間	jiān	(M) measure word for houses, rooms, etc
+空	kōng	(Vs) vacant, empty
+房間	fángjiān	(N) room
+套房	tàofáng	(N) suite
+回去	huíqù	(Vi) to go back, to return
+想	xiǎng	(V) to think
+再	zài	(Adv) and then
+電話	diànhuà	(N) telephone
+給	gěi	(Prep) to
+林	Lín	Chinese last name, common in Taiwan
+打電話	dǎ diànhuà	to make a phone call
+喂	wéi	(Ptc) a particle used in addressing people, especially over the phone
+房租	fángzū	(N) rent (for a room or a house)
+已經	yǐjīng	(Adv) already
+習慣	xíguàn	(Vs) to get settled down, to get used to
+問題	wèntí	(N) problem, question
+熱水器	rèshuǐqì	(N) water heater
+好像	hǎoxiàng	(Adv) to seem to be, to appear to be (often used to take the edge off of a comment)
+會	huì	(Vaux) will
+等	děng	(V) to wait for
+那	nà	(Ptc) then, in that case
+裝	zhuāng	(V) to install
+不過	búguò	(Conj) however, but
+付	fù	(V) to pay
+收到	shōudào	to receive
+不好意思	bùhǎo yìsi	sorry
+沒關係	méi guānxi	Not a problem
+有線電視	yǒuxiàn diànshì	cable TV
+計畫	jìhuà	(V) to plan to
+年	nián	(M) measure word for year
+久	jiǔ	(Vs) long (time)
+時間	shíjiān	(N) time
+先	xiān	(Adv) first
+念	niàn	(V) to study
+大學	dàxué	(N) university
+需要	xūyào	(Vst) to need
+花	huā	(V) to spend (time or money)
+獎學金	jiǎngxuéjīn	(N) scholarship
+成績	chéngjī	(N) grades
+學費	xuéfèi	(N) tuition
+公司	gōngsī	(N) company
+替	tì	(Prep) for, on behalf of
+希望	xīwàng	(Vst) to hope
+以後	yǐhòu	(N) in the future
+到	dào	(V) to go/ come to
+上班	shàngbān	(V-sep) to go to work
+念書	niànshū	(V-sep) to study
+累	lèi	(Vs) tired
+語言中心	yǔyán zhōngxīn	language center
+加油	jiāyóu	keep up the good work
+工作	gōngzuò	(Vi) to work
+去年	qùnián	(N) last year
+做	zuò	(V) to do, to engage in
+生意	shēngyì	(N) business
+以後	yǐhòu	(N) afterwards
+好	hǎo	(Vs) easy to
+找	zhǎo	(V) to look for
+工作	gōngzuò	(N) job, work
+這樣	zhè yàng	(N) this kind (of)
+國家	guójiā	(N) country
+試	shì	(Vi) to try
+難	nán	(Vs) hard to, difficult to
+那麼	nàme	(Ptc) then
+再	zài	(Adv) again
+試試看	shìshìkàn	to give it a try, try and see what happens
+生日	shēngrì	(N) birthday
+快樂	kuàilè	(Vs) happy
+回來	huílái	(Vi) to come back
+啊	a	(Ptc) a particle indicating a realization
+怎麼	zěnme	(Adv) How come?
+忘(了)	wàngle	(Vpt) to forget
+記得	jìde	(Vst) to remember
+當然	dāngrán	(Adv) certainly, of course
+語言	yǔyán	(N) language
+交換	jiāohuàn	(V) to exchange
+那麼	nàme	(Adv) so (very)
+熱心	rèxīn	(Vs) with enthusiasm
+西班牙文	Xībānyá wén	(N) the Spanish language
+一樣	yíyàng	(Vs) the same, alike
+過	guò	(V) to celebrate
+左右	zuǒyòu	(N) approximately
+門口	ménkǒu	(N) gate, entrance
+西班牙	Xībānyá	Spain
+生日快樂	shēngrì kuàilè	Happy Birthday
+我就是	wǒ jiù shì	(said of self on the phone) This is s/he speaking
+好久不見	hǎojiǔ bújiàn	long time no see
+不必客氣	búbì kèqì	No need to stand on formalities, i.e., It's my pleasure '
+太客氣	tài kèqì	That's very kind of you'
+禮物	lǐwù	(N) gift, present
+今年	jīnnián	(N) this year
+訂	dìng	(V) to order (something in advance)
+了	le	(Ptc) verbal particle indicating a completed action
+豬腳	zhūjiǎo	(N) pork knuckles
+麵線	miànxiàn	(N) extra fine noodles
+蛋	dàn	(N) egg
+一點	yìdiǎn	(Vs) a little, some
+傳統	chuántǒng	(N) tradition, customs
+年輕	niánqīng	(Vs) young
+蛋糕	dàngāo	(N) cake
+對	duì	(Prep) to
+祝	zhù	(V) to wish (somebody happiness, good luck, etc.)
+哪裡,哪裡	nǎlǐ nǎlǐ	It's my pleasure. Don't mention it.'
+大部分	dà bùfèn	most (of), mostly
+萬事如意	wànshì rúyì	May everything go your way
+心想事成	xīnxiǎng shìchéng	May all your wishes come true
+天氣	tiānqì	(N) weather
+冷	lěng	(Vs) cold
+風	fēng	(N) wind
+滑雪	huáxuě	(V-sep) to ski
+春天	chūntiān	(N) spring (season)
+想	xiǎng	(Vst) to miss (someone)
+新年	xīnnián	(N) New Year
+快	kuài	(Adv) soon
+父母	fùmǔ	(N) parents
+冬天	dōngtiān	(N) winter (season)
+明年	míngnián	(N) next year
+秋天	qiūtiān	(N) autumn (season)
+紅葉	hóngyè	(N) red maple leaves
+只	zhǐ	(Adv) only, merely
+玉山	Yùshān	Yu Shan (Mount Jade), tallest mountain in central Taiwan
+紐約	Niǔyuē	New York
+下雪	xiàxuě	to snow
+十二月底	shí'èryuè dǐ'	the end of December
+雨	yǔ	(N) rain
+傘	sǎn	(N) umbrella
+颱風	táifēng	(N) typhoon
+要	yào	(Adv) will, going to
+夏天	xiàtiān	(N) summer (season)
+濕	shī	(Vs) wet
+討厭	tǎoyàn	(Vs) annoying
+新聞	xīnwén	(N) news
+更	gèng	(Adv) even (more, less, etc.)
+大家	dàjiā	(N) everyone
+小心	xiǎoxīn	(Vs) to be careful, to take care
+可怕	kěpà	(Vs) scary
+停	tíng	(Vp) to stop
+下雨	xiàyǔ	to rain
+這次	zhè cì	this time
+上次	shàng cì	last time
+慢走	màn zǒu	Bye. Take care
+醫生	yīshēng	(N) doctor
+一直	yìzhí	(Adv) continuously, all the way
+流	liú	(V) to flow
+鼻水	bíshuǐ	(N) snot, nasal mucus, a running nose
+頭	tóu	(N) head
+痛	tòng	(Vs) painful
+胃口	wèikǒu	(N) appetite
+差	chā	(Vs) poor, bad
+喉嚨	hóulóng	(N) throat
+發炎	fāyán	(Vp-sep) to be inflamed
+生病	shēngbìng	(Vp) to fall ill
+發燒	fāshāo	(Vp-sep) to have a fever
+感冒	gǎnmào	(Vp) to catch/have a cold
+藥	yào	(N) medicine
+藥局	yàojú	(N) pharmacy, drug store
+拿	ná	(V) to get
+把	bǎ	(Ptc) disposal marker
+水	shuǐ	(N) water
+休息	xiūxí	(Vi) to take a rest
+睡覺	shuìjiào	(V-sep) to sleep
+早一點	zǎo yìdiǎn	a bit earlier
+臉色	liǎnsè	(N) a person's "color" (said of the face when healthy or sick, pleased or angry etc.)'
+難看	nánkàn	(Vs) not to look good
+肚子	dùzi	(N) stomach, abdomen
+吐	tù	(V) to throw up, to vomit
+幾	jǐ	(N) (a) few
+次	cì	(M) measure word for times, occurrences
+陪	péi	(V) to go/stay with somebody, to accompany
+看病	kànbìng	(V-sep) to see a doctor
+健康	jiànkāng	(N) health
+保險	bǎoxiǎn	(N) insurance
+跟	gēn	(Prep) to
+油	yóu	(Vs) oily, greasy
+冰	bīng	(Vs) icy
+別	bié	(Adv) don't (used in imperatives)'
+關心	guānxīn	(Vs) to be concerned about
+包	bāo	(M) measure word for bags, packages etc
+睡	shuì	(Vi) to sleep
+小時	xiǎoshí	(N) hour
+怎麼了	zěnme le	What's wrong?'
+不用了	búyòng le	It's not necessary'
+健康中心	jiànkāng zhōngxīn	health center
+回家	huí jiā	go home
+最好	zuì hǎo	It would be best.../ (You) should

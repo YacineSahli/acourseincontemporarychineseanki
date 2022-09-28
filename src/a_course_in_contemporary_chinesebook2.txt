@@ -1,0 +1,658 @@
+走	zǒu	(Vi) to get to
+路人	lùrén	(N) someone; lit. a person on the street
+幫忙	bāngmáng	(V-sep) to help
+迷路	mílù	(Vp-sep) to be lost, to have lost directions
+下	xià	(Det) next
+路口	lùkǒu	(N) intersection
+段	duàn	(N) section
+過	guò	(V) to go past, to cross
+第	dì	(Det) used to indicate ordinal numbers
+紅綠燈	hónglǜdēng	(N) traffic light
+告訴	gàosù	(V) to tell
+提款機	tíkuǎnjī	(N) ATM machine
+超商	chāo-shāng	(N) convenience store
+應該	yīnggāi	(Vaux) should; ought to
+郵局	yóujú	(N) post office
+提	tí	(V) to withdraw (money)
+那邊	nàbiān / nèibiān	(N) over there, yonder
+師大 (師範大學)	Shīdà (Shīfàn Dàxué)	NTNU (National Taiwan Normal University)
+和平東路	Hépíng Dōng Lù	Heping East Road
+往前	wǎng qián	forward, ahead
+右轉	yòu zhuǎn	to turn right
+聽起來	tīng qǐlái	to sound, sound like
+看見	kànjiàn	to see, to have seen
+下載	xiàzài	(V) to download
+地圖	dìtú	(N) map
+好用	hǎoyòng	(Vs) easy to use, handy
+著	zhe	(Ptc) a particle indicating progression or continuation of action
+日用品	rìyòngpǐn	(N) articles of daily use
+經過	jīngguò	(V) to go past
+巷子	xiàngzi	(N) alley
+餓	è	(Vs) hungry
+一邊	yìbiān	(Adv) indicates doing two things simultaneously, as, while
+發現	fāxiàn	(Vpt) to discover
+離	lí	(Prep) (away) from
+背包	bēibāo	(N) backpack
+正好	zhènghǎo	(Adv) just, happen to
+最後	zuìhòu	(Adv) in the end, finally
+枝	zhī	(M) measure word for pens
+筆	bǐ	(N) pen
+本	běn	(M) measure word for books
+本子	běnzi	(N) notebook
+左轉	zuǒ zhuǎn	to turn left
+師大路上	Shīdà Lù shàng	on Shida Road
+麵店	miàn diàn	noodle shop
+還是	háishì	(Adv) should probably, alternatively, had better
+早	zǎo	(Vs) Good morning
+約	yuē	(V) to invite someone to do something at a specific time
+對面	duìmiàn	(N) on the other side of (something), opposite
+直接	zhíjiē	(Adv) directly
+不必	búbì	(Vaux) no need to, not necessary to
+換	huàn	(V) to transfer (transportation)
+車站	chēzhàn	(N) bus station, train station
+麻煩	máfán	(Vs) troublesome
+趕快	gǎnkuài	(Adv) right away; quickly (indicating urgency)
+走	zǒu	(Vp) to leave, to bid farewell
+班次	bāncì	(N) number of scheduled runs (of trains, flights, boats, buses)
+禮拜	lǐbài	(N) week
+見	jiàn	(V) to see
+電腦展	diànnǎo zhǎn	computer show
+世貿展覽館	Shìmào Zhǎnlǎn Guǎn	World Trade Center Exhibition Hall
+展覽館	zhǎnlǎn guǎn	exhibition hall
+台北	Táiběi	Taipei
+2號線	èr hào xiàn	Line 2 (of Taipei MRT)
+別急	bié jí	No need to hurry. Take your time
+飛機	fēijī	(N) airplane
+轉機	zhuǎn jī	(V-sep) to transfer (flights)
+機場	jīchǎng	(N) airport
+巴士	bāshì	(N) bus
+市區	shìqū	(N) downtown
+下	xià	(V) to get off, alight, disembark
+交通	jiāotōng	(N) transportation
+便利	biànlì	(Vs) convenient, handy
+到處	dàochù	(Adv) everywhere
+路線	lùxiàn	(N) route
+複雜	fùzá	(Vs) complicated
+輕鬆	qīngsōng	(Vs) with ease
+東部	dōngbù	(N) eastern part
+海邊	hǎibiān	(N) seaside
+島	dǎo	(N) island
+搭	dā	(V) to take (bus, boat, plane, taxi, etc.)
+船	chuán	(N) boat, ship
+地	de	(Ptc) adverbial particle
+美美	Měiměi	Meimei, name of a girl
+法國	Fǎguó	France
+歐洲	Ōuzhōu	Europe
+悠遊卡	yōuyóukǎ	EasyCard (MRT pass)
+綠島	Lǜdǎo	Green Island, to the southeast of the main island
+東南邊	dōngnán biān	the southeast side of
+好好地	hǎohǎo de	to do something properly
+進步	jìnbù	(Vp) to make improvement, to progress
+早	zǎo	(Vs) early
+考試	kǎoshì	(N) a test, examination
+準備	zhǔnbèi	(V) to prepare, to get ready
+考	kǎo	(V) to take a test
+聽寫	tīngxiě	(N) dictation
+容易	róngyì	(Vs) easy
+小學	xiǎoxué	(N) elementary school
+漢字	hànzì	(N) Chinese characters
+高中	gāozhōng	(N) senior high school
+過	guò	(Ptc) a particle indicating experience
+才	cái	(Adv) just, only
+說話	shuōhuà	(V-sep) to speak
+不夠	bú gòu	(Adv) not quite, not enough
+流利	liúlì	(Vs) fluent
+雖然	suīrán	(Conj) although
+環境	huánjìng	(N) environment, surroundings
+同意	tóngyì	(Vst) to agree with
+報紙	bàozhǐ	(N) newspapers
+麵包	miànbāo	(N) bread
+演講	yǎnjiǎng	(N) a speech, a public lecture
+噢	òu	(Ptc) Oh
+活動中心	huódòng zhōngxīn	activity center
+想起來	xiǎng qǐlái	to have remembered
+選	xuǎn	(V) to select
+作業	zuòyè	(N) homework, assignment
+練習	liànxí	(V) to practice
+半夜	bànyè	(N) middle of the night, late at night
+高興	gāoxìng	(Vs) glad, pleased
+平常	píngcháng	(Adv) usually
+爬山	páshān	(V-sep) to go hiking
+認識	rènshì	(Vpt) to get to know someone
+聊天	liáotiān	(V-sep) to have a chat
+文化	wénhuà	(N) culture
+廣告	guǎnggào	(N) advertisement, commercial
+位	wèi	(M) measure word for people (polite form)
+了解	liǎojiě	(Vst) to understand
+生活	shēnghuó	(N) life
+陽明山	Yángmíng Shān	Yangming Mountain
+外國人	wàiguó rén	foreigner
+一些	yìxiē	a little bit of, some, a fair amount of
+高美玲	Gāo Měilíng	Gao Meiling, a woman from France
+打工	dǎgōng	(V-sep) to work part-time
+主任	zhǔrèn	(N) director
+介紹	jièshào	(V) to introduce
+歲	suì	(M) years of age
+語言學	yǔyánxué	(N) linguistics
+經驗	jīngyàn	(N) experience
+談	tán	(V) to talk over, to talk about , to discuss
+當	dāng	(V) to serve as
+助教	zhùjiào	(N) teaching assistant
+上午	shàngwǔ	(N) morning
+除了	chúle	(Prep) except for, other than
+年級	niánjí	(N) grade (year in school)
+暑假	shǔjià	(N) summer vacation
+請教	qǐngjiào	(V) to ask, to inquire (polite form)
+貴	guì	(Vs-attr) your (honorable)
+薪水	xīnshuǐ	(N) pay
+算	suàn	(V) to calculate
+按照	ànzhào	(Prep) based on, in accordance with
+教授	jiàoshòu	(N) professor
+鐘點費	zhōngdiǎn fèi	(N) hourly pay
+份	fèn	(M) measure word for job
+法文	Fǎwén	French language
+亞洲	Yàzhōu	Asia
+西班牙語	Xībānyá yǔ	Spanish language
+英文	Yīngwén	English language
+三年級	sān niánjí	grade three (school or university)
+法律	fǎlǜ	(N) law
+夠	gòu	(Vs-pred) enough
+履歷表	lǚlìbiǎo	(N) résumé
+面談	miàntán	(Vi, N) to have an interview, interview
+華僑	Huáqiáo	(N) overseas Chinese
+辦公室	bàngōngshì	(N) office
+談話	tánhuà	(V-sep) to talk
+情形	qíngxíng	(N) situation
+適合	shìhé	(Vst) suitable for
+說明	shuōmíng	(V) to explain
+然後	ránhòu	(Adv) afterwards, and then
+月底	yuèdǐ	(N) the end of a month
+發	fā	(V) to pay (wages)
+馬上	mǎshàng	(Adv) immediately
+答應	dāyìng	(V) to accept
+順利	shùnlì	(Vs) to go, to proceed, smoothly
+黃	Huáng	a common Chinese family name, literally “yellow”
+沒想到	méi xiǎngdào	unexpectedly, didn't expect'
+喜酒	xǐjiǔ	(N) wedding banquet, wedding reception
+恭喜	gōngxǐ	(V) to congratulate
+新娘	xīnniáng	(N) bride
+參加	cānjiā	(V) to attend
+婚禮	hūnlǐ	(N) wedding ceremony
+西裝	xīzhuāng	(N) a (western) suit
+正式	zhèngshì	(Vs) formal
+客人	kèrén	(N) guest
+手	shǒu	(N) hand
+照相機	zhàoxiàngjī	(N) camera
+新郎	xīnláng	(N) bridegroom
+站	zhàn	(Vi) to stand
+白	bái	(Vs) white
+帥	shuài	(Vs) handsome, good looking (of men)
+禮服	lǐfú	(N) formal attire
+座位	zuòwèi	(N) seat
+看起來	kàn qǐlái	to look, it appears to me
+結婚	jiéhūn	(Vp-sep) to get married to
+日子	rìzi	(N) day
+親戚	qīnqī	(N) relatives
+熱鬧	rènào	(Vs) to be boisterous, lively
+慶祝	qìngzhù	(V) to celebrate
+件	jiàn	(M) measure word for clothing
+喜事	xǐshì	(N) an auspicious occasion, such as a wedding
+請客	qǐngkè	(V-sep) to host a banquet, treat somebody to a meal
+紅包	hóngbāo	(N) red envelope with cash gift
+送	sòng	(V) to give a gift, to send off, to see off
+新人	xīnrén	(N) newlyweds (used only at a wedding)
+喜宴	xǐyàn	(N) wedding banquet, wedding reception
+敬酒	jìngjiǔ	(V-sep) to make a toast (alcoholic drinks)
+大人	dàrén	(N) adult
+小孩	xiǎohái	(N) child, children
+不得了	bùdéliǎo	(Vs) very; extremely; indicates severity
+另外	lìngwài	(Det) another
+糖	táng	(N) candies
+離開	líkāi	(Vp) to depart, to leave
+句	jù	(M) measure word for utterances
+祝福	zhùfú	(V) to give blessings to
+話	huà	(N) utterance, word
+一會兒	yìhuǐr	in a moment
+有說有笑	yǒushuō yǒuxiào	laughing and joking
+有吃有喝	yǒuchī yǒuhē	an availability of food and drink
+百年好合	bǎinián hǎohé	century-long matrimony, i.e., to have a long happy marriage
+早生貴子	zǎoshēng guìzǐ	May you soon bear a child! (a traditional exhortation given to newly-weds)
+李東健	Lǐ Dōngjiàn	Li Dongjian, a man from Seoul
+搬	bān	(V) to move to
+河邊	hé biān	(N) riverside
+公園	gōngyuán	(N) park
+腳踏車	jiǎotàchē	(N) bicycle
+正在	zhèngzài	(Adv) right in the middle of, currently engaged in
+網站	wǎngzhàn	(N) website
+資料	zīliào	(N) information
+搬家	bān jiā	(V-sep) to move (home)
+近	jìn	(Vs) near, close by
+合約	héyuē	(N) contract, agreement
+到期	dàoqí	(Vp) to expire
+還好	háihǎo	(Adv) fortunately
+光線	guāngxiàn	(N) natural lighting
+重要	zhòngyào	(Vs) important
+如果	rúguǒ	(Conj) if
+別的	biéde	(Det) other
+合適	héshì	(Vs) suitable
+少	shǎo	(Vpt) to lack
+可惜	kěxí	(Vs) to be a shame, a pity
+放	fàng	(V) to store, to leave at a place
+兩邊	liǎngbiān	(N) both places
+願意	yuànyì	(Vaux) to be willing to
+開	kāi	(V) to drive
+存	cún	(V) to save
+隨身碟	suíshēndié	(N) flash drive
+什麼樣	shénmeyàng	what kind of
+慢慢來	mànmàn lái	take your time
+不急	bùjí	don't rush, no hurry'
+相當	xiāngdāng	(Adv) fairly
+自行車	zìxíngchē	(N) bicycle
+床	chuáng	(N) bed
+桌子	zhuōzi	(N) desk, table
+椅子	yǐzi	(N) chair
+家具	jiājù	(N) furniture
+而且	érqiě	(Conj) also
+吵	chǎo	(Vs) noisy
+生活費	shēnghuófèi	(N) living expenses
+低	dī	(Vs) low
+留	liú	(Vi, V) to stay / to leave behind
+長	cháng	(Vs) long
+討論	tǎolùn	(V) to have a discussion over, to go over with
+社團	shètuán	(N) club, association
+活動	huódòng	(N) activity
+失望	shīwàng	(Vs) to be disappointed
+放心	fàngxīn	(Vs-sep) not to worry, to rest assured
+用	yòng	(V) to use
+首爾	Shǒu'ěr'	Seoul
+垃圾	lèsè	(N) garbage
+倒	dào	(V) to throw out (garbage)
+丟	diū	(V) to throw, to throw away (garbage)
+收	shōu	(V) to collect
+以為	yǐwéi	(Vst) to assume wrongly
+回收	huíshōu	(V) to recycle
+規定	guīdìng	(N) rules, regulation
+要不然	yàobùrán	(Conj) otherwise
+皮包	píbāo	(N) purse
+跑	pǎo	(Vi) to run
+追	zhuī	(V) to run after, to chase
+有趣	yǒuqù	(Vs) interesting
+不壞	bú huài	(Vs) not too bad
+天天	tiāntiān	everyday
+汽水罐	qìshuǐ guàn	soda can
+紙杯	zhǐbēi	paper cup
+放下	fàngxià	put down
+走出來	zǒu chūlái	to walk out of
+怎麼辦	zěnmebàn	What now?
+聊	liáo	(V) to chat (about)
+忽然	hūrán	(Adv) suddenly
+聲音	shēngyīn	(N) sound
+奇怪	qíguài	(Vs) strange, odd
+袋子	dàizi	(N) bag
+輛	liàng	(M) measure word for vehicles
+一定	yídìng	(Vs-attr) fixed, set, at a certain…
+地點	dìdiǎn	(N) location
+為了	wèile	(Prep) to, for the sake of
+保護	bǎohù	(V) to protect
+分類	fēnlèi	(N) classification
+利用	lìyòng	(V) to make use of
+紙	zhǐ	(N) paper
+瓶子	píngzi	(N) bottle
+塑膠	sùjiāo	(N) plastic
+資源	zīyuán	(N) resource
+回收桶	huíshōutǒng	(N) recycling bin
+城市	chéngshì	(N) city
+聽見	tīngjiàn	to hear, to have heard
+開過來	kāi guòlái	to drive over
+走過去	zǒu guòqù	to walk over
+丟進去	diū jìnqù	to throw into
+路上	lùshàng	on the street
+功夫	gōngfū	(N) kungfu, martial arts
+叫	jiào	(V) to call (for someone's attention)'
+見	jiàn	(Ptc) accomplishment complete (in perception)
+推	tuī	(V) to push
+體育館	tǐyùguǎn	(N) gym
+太極拳	tàijíquán	(N) Tai Chi, shadow boxing
+師父	shīfù	(N) (kungfu or other skill) master
+天分	tiānfèn	(N) gift, talent
+懂	dǒng	(Vpt) to understand, to comprehend
+起來	qǐlái	(Vp) to wake up
+動作	dòngzuò	(N) movement
+輕	qīng	(Vs) light, effortless, gentle
+腿	tuǐ	(N) leg
+了	liǎo	(Ptc) capability complement
+下去	xiàqù	(Ptc) a temporal particle meaning to continue with an action
+興趣	xìngqù	(N) interest
+借	jiè	(V) to borrow
+有天分	yǒu tiānfèn	to be gifted, talented
+學會	xuéhuì	to learn, to master
+起不來	qǐ bù lái	can't get up (from bed)'
+走不了路	zǒu bù liǎo lù	can't walk'
+好處	hǎochù	(N) benefit
+抱怨	bàoyuàn	(Vi) to complain
+公尺	gōngchǐ	(N) meter
+總是	zǒngshì	(Adv) always, invariably
+完	wán	(Ptc) phase marker for ‘completion', to finish…'
+體力	tǐlì	(N) physical strength
+整天	zhěngtiān	(N) an entire day
+精神	jīngshén	(N) spirit, energy
+本來	běnlái	(Adv) originally
+可能	kěnéng	(Vaux) maybe, probably
+回	huí	(V) to return to
+影響	yǐngxiǎng	(V) to influence, to interfere with
+身體	shēntǐ	(N) body
+練	liàn	(N) to practice, to train, to drill
+想起	xiǎngqǐ	to recall
+春假	chūnjià	(N) spring break
+好	hǎo	(Ptc) As a resultative particle, it indicates a proper completion of an action
+到	dào	(Ptc) As a resultative particle, it indicates a successful completion of an action
+特色	tèsè	(N) unique features, distinctive traits
+夠	gòu	(Vs-pred) enough
+顏色	yánsè	(N) color
+廟	miào	(N) temple
+像	xiàng	(Vst) similar to
+教堂	jiàotáng	(N) church, cathedral
+南部	nánbù	(N) southern region
+潛水	qiánshuǐ	(V-sep) to dive (i.e., snorkel or scuba diving)
+各	gè	(Det) various
+魚	yú	(N) fish
+酸	suān	(Vs) sour, tart
+檸檬	níngméng	(N) lemon, lime
+味道	wèidào	(N) taste, flavor
+泰國	Tàiguó	Thailand
+比起來	bǐ qǐlái	compared to
+極了	jí le	absolutely, extremely
+忘不了	wàng bù liǎo	unforgettable
+鄉下	xiāngxià	(N) countryside
+氣氛	qìfēn	(N) atmosphere
+鎮	zhèn	(N) rural town
+不同	bùtóng	(Vs) different
+現代	xiàndài	(N) modern
+公寓	gōngyù	(N) apartment
+馬路	mǎlù	(N) street
+寬	kuān	(Vs) wide
+汽車	qìchē	(N) car
+建築	jiànzhú	(N) buildings
+老	lǎo	(Vs) old
+層	céng	(M) measure word for floors and storeys
+北部	běibù	(N) the north
+熱情	rèqíng	(Vs) hospitable, welcoming, warmhearted
+擠	jǐ	(Vs) crowded
+飲料	yǐnliào	(N) drink, beverage
+巴黎	Bālí	Paris
+高雄市	Gāoxióng Shì	Kaohsiung City in southern Taiwan
+中南部	zhōngnánbù	central and southern regions
+買得起	mǎi de qǐ	afford, affordable
+百貨公司	bǎihuò gōngsī	department store
+越來越	yuèláiyuè	more and more, increasingly
+馬丁	Mǎdīng	Martin, a man from the UK
+包	bāo	(V) to wrap
+餃子	jiǎozi	(N) dumplings
+脫	tuō	(V) to remove, to take off (clothing)
+鞋	xié	(N) shoes
+關	guān	(V) to close
+門	mén	(N) door
+春捲	chūnjuǎn	(N) spring rolls
+泡菜	pàocài	(N) kimchi, pickled vegetables
+飯廳	fàntīng	(N) dining room
+下	xià	(Ptc) to have enough space to accommodate
+洗	xǐ	(V) to wash
+做菜	zuòcài	(V-sep) to cook
+水餃	shuǐjiǎo	(N) dumplings (when boiled in water)
+煮	zhǔ	(V) to cook, to boil
+壞	huài	(Vp) to go bad
+破	pò	(Vp) to break, to split open
+餡兒	xiànr	(N) filling
+扁	biǎn	(Vs) flat
+材料	cáiliào	(N) ingredients
+道	dào	(M) measure word for dishes of food
+飽	bǎo	(Vs) to have eaten enough, to be full
+光	guāng	(Vp) to be finished, none left
+鍋子	guōzi	(N) pot, kettle, pan, wok
+筷子	kuàizi	(N) chopsticks
+碗	wǎn	(N) bowl
+韓國	Hánguó	(South) Korea
+看不出來	kàn bù chūlái	It does not occur to me that…, can't tell (i.e., ascertain)'
+酸辣湯	suānlà tāng	hot and sour soup
+學期	xuéqí	(N) semester (or school term)
+趁	chèn	(Prep) while, take advantage of
+皮	pí	(N) skin, wraps
+嚐	cháng	(V) to savor, to taste
+大白菜	dàbáicài	(N) Chinese cabbage
+加	jiā	(V) to add
+鹽	yán	(N) salt
+拌	bàn	(V) to stir, to mix
+辣椒	làjiāo	(N) chili peppers
+調味料	tiáowèiliào	(N) seasonings
+裝	zhuāng	(V) to pack into
+玻璃	bōlí	(N) glass
+壽司	shòusī	(N) sushi
+像	xiàng	(Vst) such as; like
+食物	shíwù	(N) food
+做起來	zuò qǐlái	when undertaken, to do
+其他	qítā	(Det) other, the other, the remaining
+假期	jiàqí	(N) vacation, holiday
+溫泉	wēnquán	(N) hot springs
+建議	jiànyì	(V) to suggest, to recommend
+票	piào	(N) ticket
+考慮	kǎolǜ	(V) to consider
+順便	shùnbiàn	(Adv) without making any extra effort, on the way, while doing something else, while one is at it
+湖	hú	(N) lake
+原住民	yuánzhùmín	(N) aborigines
+趟	tàng	(M) measure word for a trip
+後來	hòulái	(Adv) later
+注意	zhùyì	(V) to pay attention to
+沙灘	shātān	(N) beach
+錢包	qiánbāo	(N) wallet, purse
+不見	bújiàn	(Vp) to be lost, to disappear
+被	bèi	(Ptc) a particle marking a passive sentence
+偷	tōu	(V) to steal
+安全	ānquán	(Vs) safe
+值得	zhíde	(Vs) worthwhile, worth
+墾丁	Kěndīng	Kenting, an area on the southern tip of Taiwan, famed for beaches and rain forest
+台中	Táizhōng	Taichung city, in central Taiwan
+日月潭	Rìyuè Tán	Sun Moon Lake, in central Taiwan
+水上活動	shuǐshàng huódòng	water activities, water recreation
+風景區	fēngjǐngqū	scenic area
+又	yòu	(Adv) then
+遍	biàn	(M) measure word for number of times
+民宿	mínsù	(N) Bed & Breakfast lodgings
+運氣	yùnqì	(N) luck
+摩托車	mótuōchē	(N) motorcycle
+熱帶	rèdài	(N) tropical region
+植物	zhíwù	(N) plants
+所有	suǒyǒu	(Vs-attr) all
+白天	báitiān	(N) in the daytime
+躺	tǎng	(Vi) to lie down
+黃昏	huánghūn	(N) dusk
+條	tiáo	(M) measure word for street
+街	jiē	(N) street
+啤酒	píjiǔ	(N) beer
+上	shàng	(Ptc) a verb particle indicating the coming into contact between two nouns
+又	yòu	(Conj) and
+浪漫	làngmàn	(Vs) romantic
+家鄉	jiāxiāng	(N) hometown, usually a village
+觀光客	guānguāngkè	tourist
+曬太陽	shài tàiyáng	to sunbathe
+水上摩托車	shuǐshàng mótuōchē	jet skis
+愛上	àishàng	to fall in love with
+新	xīn	(Adv) newly
+開	kāi	(V) to open (business)
+素食	sùshí	(N) vegetarian food
+速食	sùshí	(N) fast food
+錯	cuò	(Vp) to be mistaken, wrong
+肉	ròu	(N) meat
+欸	èi	(Ptc) an interjection particle, calling for attention
+讓	ràng	(V) to let, to make
+吃素	chīsù	(V-sep) to be a vegetarian, to eat vegetarian food
+漢堡	hànbǎo	(N) hamburger
+變	biàn	(Vp) to become
+胖	pàng	(Vs) fat
+素菜	sùcài	(N) vegetarian food, dishes
+油膩	yóunì	(Vs) oily, greasy
+樣	yàng	(M) measure word for dishes, kinds
+好奇	hàoqí	(Vs) curious, to wonder
+女孩	nǚhái	(N) girl
+青菜	qīngcài	(N) vegetables
+瘦	shòu	(Vs) thin
+室友	shìyǒu	(N) roommate
+豬肉	zhūròu	(N) pork
+西方	xīfāng	(N) the West, western
+完全	wánquán	(Adv) completely
+鹹	xián	(Vs) salty
+炸	zhá	(V) to deep fry
+烤	kǎo	(V) to grill, to roast, to BBQ
+沙拉	shālā	(N) salad
+麥當勞	Màidāngláo	McDonald's'
+速食店	sùshí diàn	fast food restaurant
+只要	zhǐyào	(Conj) as long as
+討厭	tǎoyàn	(Vst) to dislike
+餐	cān	(M) measure word for meal
+宗教	zōngjiào	(N) religion
+關係	guānxi	(N) relationship
+薯條	shǔtiáo	(N) French fries
+作法	zuòfǎ	(N) way of doing something, e.g., cooking
+越	yuè	(Adv) more
+簡單	jiǎndān	(Vs) simple
+蒸	zhēng	(V) to steam
+有機	yǒujī	(Vs-attr) organic
+食品	shípǐn	(N) food
+地球	dìqiú	(N) the earth
+汙染	wūrǎn	(N) pollution
+嚴重	yánzhòng	(Vs) serious
+衛生	wèishēng	(N) hygiene
+營養	yíngyǎng	(N) nutrition
+什麼的	shénmede	things like (that); etc
+林愛麗	Lín Àilì	Lin Aili, a woman from Canada
+掉	diào	(Vp) to lose
+低頭	dītóu	(V-sep) to lower one's head'
+傳	chuán	(V) to send (text message, email)
+過	guò	(Ptc) a phase particle indicating completion of an action
+簡訊	jiǎnxùn	(N) text message
+功能	gōngnéng	(N) function
+生氣	shēngqì	(Vs-sep) to get angry at
+叫	jiào	(V) to tell
+罵	mà	(V) to yell at, to scold, to tell off
+健身房	jiànshēnfáng	(N) gym
+啦	la	(Ptc) a sentence-final particle indicating a question, 了+啊
+查	chá	(V) to check, to look up (for information)
+班機	bānjī	(N) flight
+訂位	dìngwèi	(V-sep) to make reservations
+電	diàn	(N) electric power
+充電	chōngdiàn	(V-sep) to charge (the battery of an electronic device)
+糊塗	hútú	(Vs) muddle-headed
+喔	ō	(Ptc) a sentence-final particle indicating a suggestion
+義大利	Yìdàlì	Italy
+拿走	názǒu	to take away
+撿到	jiǎndào	to find something, to pick up
+留下	liúxià	to keep for oneself
+網路	wǎnglù	(N) the internet
+發生	fāshēng	(Vp) to happen
+事情	shìqíng	(N) event, happening
+消息	xiāoxí	(N) news, information
+透過	tòuguò	(Prep) through
+世界	shìjiè	(N) the world
+節省	jiéshěng	(V) to save
+起床	qǐchuáng	(Vp-sep) to get out of bed
+檢查	jiǎnchá	(V) to check
+郵件	yóujiàn	(N) mail
+立刻	lìkè	(Adv) immediately
+上傳	shàngchuán	(V) to upload, to post
+正常	zhèngcháng	(Vs) to be normal
+談	tán	(V) to talk over, to talk about, to discuss
+現代人	xiàndài rén	modern day people, people today
+比方說	bǐfāng shuō	for example
+做到	zuòdào	to be able to achieve, to succeed in doing
+第一手	dìyīshǒu	first hand
+急著	jízhe	in a hurry to
+打招呼	dǎ zhāohū	to greet someone; to say hello; to wave at someone
+面對面	miàn duì miàn	face-to-face
+將來	jiānglái	(N) the future
+徵求	zhēngqiú	(V) to seek, to invite applications for
+教師	jiàoshī	(N) instructor
+認為	rènwéi	(Vst) to have the opinion that, to think
+畢業	bìyè	(Vp-sep) to graduate
+發展	fāzhǎn	(V) to develop
+連	lián	(Prep) even
+想法	xiǎngfǎ	(N) thoughts, way of thinking, idea
+不但	búdàn	(Conj) not only
+繼續	jìxù	(Vaux) to continue
+使用	shǐyòng	(V) to make use of, to use
+實現	shíxiàn	(Vp) to come true, to realize
+招待	zhāodài	(V) to entertain, to play host to
+研究所	yánjiùsuǒ	(N) graduate school
+聚	jù	(Vi) to get together
+香港	Xiānggǎng	Hong Kong
+上海	Shànghǎi	Shanghai
+說到	shuōdào	to mention
+念完	niànwán	to complete (an academic program)
+分公司	fēngōngsī	branch office
+捨不得	shěbùde	reluctant to part with
+聚一聚	jù yí jù	get together
+當時	dāngshí	(Adv) at that time
+聲調	shēngdiào	(N) tones
+發音	fāyīn	(N) pronunciation
+準	zhǔn	(Vs) to be accurate
+企業	qìyè	(N) enterprise
+管理	guǎnlǐ	(N) management
+系	xì	(N) academic department (of a university)
+經濟	jīngjì	(N) economy
+幫助	bāngzhù	(N) help
+有關	yǒuguān	(Vst) to be related to
+語法	yǔfǎ	(N) syntax, grammar
+研究	yánjiù	(V) to do research in
+教書	jiāoshū	(V-sep) to teach
+方法	fāngfǎ	(N) method, approach
+目的	mùdì	(N) goal, objective
+國際	guójì	(Vs-attr) international
+翻譯	fānyì	(N) translator, interpreter
+外交	wàijiāo	(N) diplomacy, foreign affairs
+人員	rényuán	(N) staff, personnel
+充實	chōngshí	(V) to enrich, to strengthen
+專業	zhuānyè	(N) profession, specialisation
+能力	nénglì	(N) capacity, ability
+加拿大	Jiānádà	Canada
+企業管理系 （企管系）	qìyè guǎnlǐ xì	department of business management
+國際關係	guójì guānxì	international relations
+春節	chūnjié	(N) the Lunar New Year, the Spring Festival
+伯伯	bóbo	(N) (older) uncle, friends' fathers in general'
+年夜飯	niányèfàn	(N) Lunar New Year's Eve dinner'
+打擾	dǎrǎo	(V) to trouble (someone), to disturb
+女兒	nǚ'ér'	(N) daughter
+國外	guówài	(N) abroad
+圍爐	wéilú	(V-sep) for a family to gather over Lunar New Year's Eve dinner'
+意思	yìsi	(N) meaning
+全家	quánjiā	(N) the entire family
+孩子	háizi	(N) children
+吉祥	jíxiáng	(Vs) auspicious
+年紀	niánjì	(N) age
+過年	guò nián	to celebrate the Lunar New Year
+除夕夜	chúxì yè	Luner New Year's Eve'
+睡著	shuìzháo	to fall asleep
+壓歲錢	yāsuìqián	New Year's Eve money'
+恭喜發財	gōngxǐ fācái	Congratulations. I wish you wealth
+好了	hǎo le	OK
+節日	jiérì	(N) holiday, festival
+打掃	dǎsǎo	(V) to clean up (must include sweeping)
+另外	lìngwài	(Conj) in addition
+春聯	chūnlián	(N) New Year's couplets (with calligraphy, in doublets)'
+除夕	chúxì	(N) Lunar New Year's Eve'
+年糕	niángāo	(N) new year rice cake
+橘子	júzi	(N) orange, tangerine
+守歲	shǒusuì	(Vi) to stay up waiting for the arrival of the New Year
+說法	shuōfǎ	(N) way of saying things, a theory
+晚	wǎn	(Vs) late
+活	huó	(Vs) to live, to stay active
+平安	píng'ān'	(Vs) peaceful, eventless
+出門	chūmén	(V-sep) to go out, to leave the house
+拜年	bàinián	(V-sep) to pay a New Year visit
+又	yòu	(Adv) again
+起來	qǐlái	(Ptc) As a resultative particle, it indicates the beginning of an action or state
+華人	Huárén	Chinese, a person of Chinese ethnicity
+貼上	tiēshàng	to stick on (the wall)
+年年有餘	niánnián yǒuyú	abundance every year
+步步高升	bùbù gāoshēng	to rise in social rank
+大吉大利	dàjí dàlì	great wishes for the new year
+放鞭炮	fàng biānpào	to set off firecrackers
+大年初一	dànián chūyī	first day of the Lunar New Year
+大年初五	dànián chūwǔ	fifth day of the Lunar New Year
